@@ -1,5 +1,6 @@
 import java.util.*;
 import java.util.Scanner;
+import java.io.inputprinter;
 class Emi
 { 
     public static void main(String []args)
